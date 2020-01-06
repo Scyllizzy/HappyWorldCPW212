@@ -11,6 +11,8 @@ namespace HappWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Happy World");
+
+            Console.ReadKey();
         }
     }
 }
