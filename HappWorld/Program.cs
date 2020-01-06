@@ -10,7 +10,7 @@ namespace HappWorld
     {
         static void Main()
         {
-            Console.WriteLine("Happy World");
+            Console.WriteLine("Sad World");
 
             Console.ReadKey();
         }
